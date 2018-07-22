@@ -1,2 +1,2 @@
 # rainmeter-triangles
-a rainmeter skin inspired by u/Th3Dr4c0R3x | https://www.reddit.com/r/Rainmeter/comments/8tq7tx/i_swear_it_was_supposed_to_be_simplistic/
+a rainmeter skin inspired by [u/Th3Dr4c0R3x](https://reddit.com/u/Th3Dr4c0R3x) his [post](https://www.reddit.com/r/Rainmeter/comments/8tq7tx/i_swear_it_was_supposed_to_be_simplistic)
